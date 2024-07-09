@@ -1,5 +1,5 @@
 # Stock Trends
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/wD2RSNoN8rI
 #### Description:
 
 ## Project Overview
